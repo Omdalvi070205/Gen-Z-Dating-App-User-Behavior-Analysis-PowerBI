@@ -1,5 +1,6 @@
 # Gen-Z-Dating-App-User-Behavior-Analysis-PowerBI
-Project Title: Gen-Z-Dating-App-User-Behavior-Analysis-PowerBI
+
+# Project Title: Gen-Z-Dating-App-User-Behavior-Analysis-PowerBI
 Description: A detailed explanation of the project's purpose, the data used, the tools employed (Power BI, DAX), and the insights generated.
 Key Features/Visualizations: Highlight the most impactful charts and metrics you created.
 Technical Details: Mention the data sources, any data cleaning or transformation steps, and specific DAX measures you used.
