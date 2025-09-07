@@ -5,13 +5,13 @@ This project presents a comprehensive analysis of user behavior on popular datin
 ### 📋 Table of Contents
 ##### Project Overview
 
-Key Insights
+##### Key Insights
 
-Dashboard Breakdown
+##### Dashboard Breakdown
 
-#### Tools Used
+##### Tools Used
 
-#### How to Use
+##### How to Use
 
 ### 📌 Project Overview
 This dashboard aims to uncover patterns and trends in how Gen-Z users interact with dating applications. By analyzing data from 500 users across 7 major Indian cities, we can understand user motivations, satisfaction levels with different apps, and daily usage habits. This information is valuable for product managers, marketers, and anyone interested in the online dating landscape.
